@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -->
 
 ## About me ✌️ :
-- 🌱 I’m currently learning Google Cloud
 - 📫 How to reach me :&nbsp; reseraju21@gmail.com
 
 ## 🌐 Socials
