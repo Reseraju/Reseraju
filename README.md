@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## About me ✌️ :
 - 🚀 Aspiring Software Developer | Mobile & Web Enthusiast
-- 🌱 Currently exploring Spring Boot and Hibernate for advanced backend systems. 
+- 🌱 Currently having fun exploring DevOps—learning about CI/CD, containers, and all the cool tools that make things run smoother.
 - 📫 How to reach me :&nbsp; reseraju21@gmail.com
 - 💬 I love collaborating and sharing ideas. Feel free to reach out if you have any exciting projects, need a teammate, or just want to talk tech!
 
